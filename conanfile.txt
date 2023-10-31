@@ -1,0 +1,8 @@
+[requires]
+entt/3.10.3
+edyn/1.2.1
+vulkan-headers/1.3.211.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
